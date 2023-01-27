@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Yohan Lee👋
 
-<!--
-**yhlee230127/yhlee230127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![logo](./EH_RnC_logo.jpg)
 
 - 🔭 I’m currently working on ...
+   - Development of data-driven ML model with spatio-temporal structure for prediction of air polution
+   - Development of indoor air quality & building energy balance model with ordinary differential equation (ODE)
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+   - Particle physics & Accelerator physics (PhD Student at Kyoto University)
+   - ML & DL model for atmospheric environment (EH R&C at Korea)
+   
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+   - E-mail: yh.lee@ehrnc.com
+   - Mobile: +82-10-9619-6592
+  
 - ⚡ Fun fact: ...
--->
+   - Hobby: weight training:muscle:, PC game:computer:, learning Programming:book:, learning Japanese:japan:
