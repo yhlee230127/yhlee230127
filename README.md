@@ -12,7 +12,3 @@
    
 - 📫 How to reach me: ...
    - E-mail: yh.lee@ehrnc.com
-   - Mobile: +82-10-2118-6592
-  
-- ⚡ Fun fact: ...
-   - Hobby: weight training:muscle:, PC game:computer:, learning Programming:book:, learning Japanese:japan:
